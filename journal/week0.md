@@ -1,6 +1,6 @@
 ## Week 0 — Billing and Architecture
 
-# Conceptual Diagram in Lucid Charts
+# Conceptual Diagram
 
 ![](./week0/arch1.jpeg)
 
