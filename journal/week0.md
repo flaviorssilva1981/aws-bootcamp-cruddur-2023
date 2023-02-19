@@ -9,3 +9,13 @@
 
 
 ![](./week0/arch2.jpeg)
+
+
+## Budget
+
+![](./week0/budget.png)
+
+## Alerts
+
+![](./week0/alerts.png)
+
