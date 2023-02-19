@@ -13,9 +13,9 @@
 
 ## Budget
 
-![](./week0/budget.png)
+![](./week0/budget.PNG)
 
 ## Alerts
 
-![](./week0/alerts.png)
+![](./week0/alerts.PNG)
 
